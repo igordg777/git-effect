@@ -1,0 +1,29 @@
+{
+  "name": "git-effect",
+  "version": "1.0.1",
+  "description": "<p align=\"center\"> <img src=\"./images/git-effect.gif\" width=\"750px\" height=\"300px\"/></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igordg777/git-effect.git"
+  },
+  "keywords": [
+    "git",
+    "git-effect",
+    "effect",
+    "creative"
+  ],
+  "author": "iGorG, 2020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igordg777/git-effect/issues"
+  },
+  "homepage": "https://github.com/igordg777/git-effect#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}

@@ -3,7 +3,6 @@ const fs = require("fs");
 const alphabet = require("./alphabet")
 
 
-
 class Calendar {
 constructor(text, language) {
     this.text = text;
