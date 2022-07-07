@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/igordg777/git-effect#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {}
 }
